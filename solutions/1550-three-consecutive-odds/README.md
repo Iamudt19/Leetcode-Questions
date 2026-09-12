@@ -1,9 +1,9 @@
 # LeetCode #1550 - Three Consecutive Odds
 
 - **Difficulty:** Easy
-- **Language:** Java
-- **Runtime:** 0 ms
-- **Memory:** 42.6 MB
+- **Language:** Text
+- **Runtime:** N/A
+- **Memory:** N/A
 - **Date:** Sep 12, 2026
 - **Problem Link:** [LeetCode](https://leetcode.com/problems/three-consecutive-odds/)
 - **Topics:** `Array`
@@ -38,7 +38,7 @@ Explanation: [5,7,23] are three consecutive odds.
 
 ## Solution
 
-```java
+```plaintext
 
         }
         return false;
