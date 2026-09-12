@@ -1,10 +1,10 @@
 # LeetCode #1550 - Three Consecutive Odds
 
 - **Difficulty:** Easy
-- **Language:** Text
-- **Runtime:** N/A
-- **Memory:** N/A
-- **Date:** Sep 12, 2026
+- **Language:** Java
+- **Runtime:** 0 ms
+- **Memory:** 42.1 MB
+- **Date:** Sep 13, 2026
 - **Problem Link:** [LeetCode](https://leetcode.com/problems/three-consecutive-odds/)
 - **Topics:** `Array`
 
@@ -38,10 +38,12 @@ Explanation: [5,7,23] are three consecutive odds.
 
 ## Solution
 
-```plaintext
-
-        }
-        return false;
+```java
+class Solution {
+    public boolean threeConsecutiveOdds(int[] arr) {
+        int c=3;
+        for(int i=0;i<arr.length;i++){
+            if(arr[i]%2==1){
                 c--;
             }
             else{
@@ -50,6 +52,9 @@ Explanation: [5,7,23] are three consecutive odds.
             if(c==0){
                 return true;
             }
+
+        }
+        return false;
     }
 }
 
