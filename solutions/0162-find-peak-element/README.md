@@ -1,10 +1,10 @@
 # LeetCode #162 - Find Peak Element
 
 - **Difficulty:** Medium
-- **Language:** Text
-- **Runtime:** N/A
-- **Memory:** N/A
-- **Date:** Sep 13, 2026
+- **Language:** Java
+- **Runtime:** 0 ms
+- **Memory:** 43.8 MB
+- **Date:** Sep 14, 2026
 - **Problem Link:** [LeetCode](https://leetcode.com/problems/find-peak-element/)
 - **Topics:** `Array` `Binary Search`
 
@@ -44,14 +44,30 @@ Explanation: Your function can return either index number 1 where the peak eleme
 
 ## Solution
 
-```plaintext
+```java
+class Solution {
+    public int findPeakElement(int[] nums) {
+        int l=0;
+        int r=nums.length-1;
+        int ans =-1;
+        if(nums.length==1){
+            return 0;
+        }
+        
 
 
-        while(l<=r){
-            int mid=l+(r-l)/2;
-            
-            if(nums[mid]<nums[mid+1]){
-                l=mid+1;
-            }
-
+        while(l<r){
+            int mid=l+(r-l)/2;
+            
+            if(nums[mid]<nums[mid+1]){
+                l=mid+1;
+            }
+            else{
+                
+                r=mid;
+            }
+        }
+        return l;
+    }
+}
 ```
