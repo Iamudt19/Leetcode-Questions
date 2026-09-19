@@ -1,7 +1,7 @@
 # LeetCode #540 - Single Element in a Sorted Array
 
 - **Difficulty:** Medium
-- **Language:** Java
+- **Language:** Text
 - **Runtime:** N/A
 - **Memory:** N/A
 - **Date:** Sep 19, 2026
@@ -40,11 +40,14 @@ Output: 10
 
 ## Solution
 
-```java
+```plaintext
 class Solution {
     public int singleNonDuplicate(int[] nums) {
         int c=2;
         int ans=0;
+        if(nums.length==1){
+            return nums[0];
+        }
         for(int i=1;i<nums.length;i++){
             if(nums[i-1]!=nums[i]){
                 c--;
