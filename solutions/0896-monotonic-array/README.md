@@ -50,25 +50,30 @@ Output: false
 ```plaintext
 class Solution {
     public boolean isMonotonic(int[] nums) {
+        int c=0;
         if(nums.length==1){
             return true;
         }
         
-        if(nums[1]>nums[0]){
+        if(nums[1]>=nums[0]){
             for(int i=1;i<nums.length;i++){
-                if(nums[i-1]>nums[i]){
-                    return false;
+                if(nums[i-1]<=nums[i]){
+                    c++;
                 }
             }
         }
         else{
             for(int i=1;i<nums.length;i++){
-                if(nums[i-1]<nums[i]){
-                    return false;
+                if(nums[i-1]>=nums[i]){
+                    c++;
                 }
             }
+            
         }
-        return true;
+        if(c==nums.length-1){
+                return true;
+            }
+        return false;
     }
 }
 ```
