@@ -8,6 +8,7 @@ Automatically synchronized from LeetCode via **LeetPush**.
 | 162 | [Find Peak Element](https://leetcode.com/problems/find-peak-element/) | 🟡 Medium | Java | [Solution](solutions/0162-find-peak-element/Solution.java) |
 | 167 | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | 🟡 Medium | Java | [Solution](solutions/0167-two-sum-ii-input-array-is-sorted/Solution.java) |
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | 🟢 Easy | Text | [Solution](solutions/0169-majority-element/solution.txt) |
+| 493 | [Reverse Pairs](https://leetcode.com/problems/reverse-pairs/) | 🔴 Hard | Text | [Solution](solutions/0493-reverse-pairs/solution.txt) |
 | 540 | [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/) | 🟡 Medium | Text | [Solution](solutions/0540-single-element-in-a-sorted-array/solution.txt) |
 | 747 | [Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/) | 🟢 Easy | Text | [Solution](solutions/0747-largest-number-at-least-twice-of-others/solution.txt) |
 | 836 | [Rectangle Overlap](https://leetcode.com/problems/rectangle-overlap/) | 🟢 Easy | Text | [Solution](solutions/0836-rectangle-overlap/solution.txt) |
