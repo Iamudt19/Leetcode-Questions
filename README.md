@@ -17,6 +17,7 @@ Automatically synchronized from LeetCode via **LeetPush**.
 | 1281 | [Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/) | 🟢 Easy | Text | [Solution](solutions/1281-subtract-the-product-and-sum-of-digits-of-an-integer/solution.txt) |
 | 1295 | [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) | 🟢 Easy | Text | [Solution](solutions/1295-find-numbers-with-even-number-of-digits/solution.txt) |
 | 1346 | [Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/) | 🟢 Easy | Text | [Solution](solutions/1346-check-if-n-and-its-double-exist/solution.txt) |
+| 1518 | [Water Bottles](https://leetcode.com/problems/water-bottles/) | 🟢 Easy | Text | [Solution](solutions/1518-water-bottles/solution.txt) |
 | 1550 | [Three Consecutive Odds](https://leetcode.com/problems/three-consecutive-odds/) | 🟢 Easy | Text | [Solution](solutions/1550-three-consecutive-odds/solution.txt) |
 | 1913 | [Maximum Product Difference Between Two Pairs](https://leetcode.com/problems/maximum-product-difference-between-two-pairs/) | 🟢 Easy | Text | [Solution](solutions/1913-maximum-product-difference-between-two-pairs/solution.txt) |
 | 2154 | [Keep Multiplying Found Values by Two](https://leetcode.com/problems/keep-multiplying-found-values-by-two/) | 🟢 Easy | Text | [Solution](solutions/2154-keep-multiplying-found-values-by-two/solution.txt) |
