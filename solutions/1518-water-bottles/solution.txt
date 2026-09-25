@@ -2,18 +2,10 @@ class Solution {
     public int numWaterBottles(int numBottles, int numExchange) {
         int ans=0;
         int n=numBottles;
-        if(n<numExchange){
-            return n;
+        while(n>=numExchange){
+            ans+=n-(n%numExchange);//Jo bottle bhari hai unka count
+            n=n/numExchange+n%numExchange;//khali bottles
         }
-        if(n%numExchange!=0){
-            ans=1;
-        }
-        while(n>0){
-            ans+=n;
-            n/=numExchange;
-            
-
-        }
-        return ans;
+        return ans+n;
     }
 }
