@@ -19,5 +19,6 @@ Automatically synchronized from LeetCode via **LeetPush**.
 | 1550 | [Three Consecutive Odds](https://leetcode.com/problems/three-consecutive-odds/) | 🟢 Easy | Text | [Solution](solutions/1550-three-consecutive-odds/solution.txt) |
 | 1913 | [Maximum Product Difference Between Two Pairs](https://leetcode.com/problems/maximum-product-difference-between-two-pairs/) | 🟢 Easy | Text | [Solution](solutions/1913-maximum-product-difference-between-two-pairs/solution.txt) |
 | 2154 | [Keep Multiplying Found Values by Two](https://leetcode.com/problems/keep-multiplying-found-values-by-two/) | 🟢 Easy | Text | [Solution](solutions/2154-keep-multiplying-found-values-by-two/solution.txt) |
+| 2485 | [Find the Pivot Integer](https://leetcode.com/problems/find-the-pivot-integer/) | 🟢 Easy | Text | [Solution](solutions/2485-find-the-pivot-integer/solution.txt) |
 | 3065 | [Minimum Operations to Exceed Threshold Value I](https://leetcode.com/problems/minimum-operations-to-exceed-threshold-value-i/) | 🟢 Easy | Text | [Solution](solutions/3065-minimum-operations-to-exceed-threshold-value-i/solution.txt) |
 | 3550 | [Smallest Index With Digit Sum Equal to Index](https://leetcode.com/problems/smallest-index-with-digit-sum-equal-to-index/) | 🟢 Easy | Text | [Solution](solutions/3550-smallest-index-with-digit-sum-equal-to-index/solution.txt) |
