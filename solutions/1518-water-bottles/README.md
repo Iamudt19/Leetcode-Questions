@@ -49,6 +49,9 @@ class Solution {
     public int numWaterBottles(int numBottles, int numExchange) {
         int ans=0;
         int n=numBottles;
+        if(n<numExchange){
+            return n;
+        }
         if(n%numExchange!=0){
             ans=1;
         }
