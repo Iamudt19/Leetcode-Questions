@@ -12,6 +12,7 @@ Automatically synchronized from LeetCode via **LeetPush**.
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | 🟢 Easy | Text | [Solution](solutions/0344-reverse-string/solution.txt) |
 | 493 | [Reverse Pairs](https://leetcode.com/problems/reverse-pairs/) | 🔴 Hard | Text | [Solution](solutions/0493-reverse-pairs/solution.txt) |
 | 540 | [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/) | 🟡 Medium | Text | [Solution](solutions/0540-single-element-in-a-sorted-array/solution.txt) |
+| 709 | [To Lower Case](https://leetcode.com/problems/to-lower-case/) | 🟢 Easy | Text | [Solution](solutions/0709-to-lower-case/solution.txt) |
 | 747 | [Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/) | 🟢 Easy | Text | [Solution](solutions/0747-largest-number-at-least-twice-of-others/solution.txt) |
 | 836 | [Rectangle Overlap](https://leetcode.com/problems/rectangle-overlap/) | 🟢 Easy | Text | [Solution](solutions/0836-rectangle-overlap/solution.txt) |
 | 896 | [Monotonic Array](https://leetcode.com/problems/monotonic-array/) | 🟢 Easy | Text | [Solution](solutions/0896-monotonic-array/solution.txt) |
