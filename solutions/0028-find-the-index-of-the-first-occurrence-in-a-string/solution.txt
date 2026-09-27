@@ -1,0 +1,7 @@
+class Solution {
+    public int strStr(String haystack, String needle) {
+        String s= needle;
+        return haystack.indexOf(needle);
+        
+    }
+}
