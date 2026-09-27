@@ -20,6 +20,7 @@ Automatically synchronized from LeetCode via **LeetPush**.
 | 896 | [Monotonic Array](https://leetcode.com/problems/monotonic-array/) | 🟢 Easy | Text | [Solution](solutions/0896-monotonic-array/solution.txt) |
 | 1281 | [Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/) | 🟢 Easy | Text | [Solution](solutions/1281-subtract-the-product-and-sum-of-digits-of-an-integer/solution.txt) |
 | 1295 | [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) | 🟢 Easy | Text | [Solution](solutions/1295-find-numbers-with-even-number-of-digits/solution.txt) |
+| 1342 | [Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) | 🟢 Easy | Java | [Solution](solutions/1342-number-of-steps-to-reduce-a-number-to-zero/Solution.java) |
 | 1346 | [Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/) | 🟢 Easy | Text | [Solution](solutions/1346-check-if-n-and-its-double-exist/solution.txt) |
 | 1518 | [Water Bottles](https://leetcode.com/problems/water-bottles/) | 🟢 Easy | Text | [Solution](solutions/1518-water-bottles/solution.txt) |
 | 1523 | [Count Odd Numbers in an Interval Range](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/) | 🟢 Easy | Text | [Solution](solutions/1523-count-odd-numbers-in-an-interval-range/solution.txt) |
