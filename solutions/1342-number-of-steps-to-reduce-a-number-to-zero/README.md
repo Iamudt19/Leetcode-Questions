@@ -1,9 +1,9 @@
 # LeetCode #1342 - Number of Steps to Reduce a Number to Zero
 
 - **Difficulty:** Easy
-- **Language:** Java
-- **Runtime:** 0 ms
-- **Memory:** 42.3 MB
+- **Language:** Text
+- **Runtime:** N/A
+- **Memory:** N/A
 - **Date:** Sep 28, 2026
 - **Problem Link:** [LeetCode](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)
 - **Topics:** `Math` `Bit Manipulation`
@@ -57,7 +57,7 @@ Output: 12
 
 ## Solution
 
-```java
+```plaintext
 class Solution {
     public int numberOfSteps(int num) {
         int s=0;
