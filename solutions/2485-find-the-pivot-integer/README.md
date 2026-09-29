@@ -1,10 +1,10 @@
 # LeetCode #2485 - Find the Pivot Integer
 
 - **Difficulty:** Easy
-- **Language:** Text
-- **Runtime:** N/A
-- **Memory:** N/A
-- **Date:** Sep 26, 2026
+- **Language:** Java
+- **Runtime:** 1 ms
+- **Memory:** 42.2 MB
+- **Date:** Sep 30, 2026
 - **Problem Link:** [LeetCode](https://leetcode.com/problems/find-the-pivot-integer/)
 - **Topics:** `Math` `Prefix Sum`
 
@@ -50,7 +50,7 @@ Explanation: It can be proved that no such integer exist.
 
 ## Solution
 
-```plaintext
+```java
 class Solution {
     public int pivotInteger(int n) {
         for(int i=1;i<=n;i++){
