@@ -1,7 +1,7 @@
 # LeetCode #203 - Remove Linked List Elements
 
 - **Difficulty:** Easy
-- **Language:** Java
+- **Language:** Text
 - **Runtime:** N/A
 - **Memory:** N/A
 - **Date:** Oct 7, 2026
@@ -45,7 +45,7 @@ Output: []
 
 ## Solution
 
-```java
+```plaintext
 /**
  * Definition for singly-linked list.
  * public class ListNode {
@@ -58,28 +58,35 @@ Output: []
  */
 class Solution {
     public ListNode removeElements(ListNode head, int val) {
-        ListNode prev = head;
-        ListNode cur = prev.next;
-        while(prev.next!=null){
-        
-        if(head==null){
+
+        if (head == null) {
             return head;
         }
-        if(head.val==val){
-            head=head.next;
+
+        
+        while (head != null && head.val == val) {
+            head = head.next;
+            
         }
-        
-        
-            if(cur.val==val){
-                
+        if (head == null) {
+            return head;
+        }
+
+        ListNode prev = head;
+        ListNode cur = head.next;
+
+        while (cur != null) {
+
+            if (cur.val == val) {
                 prev.next=cur.next;
-                cur.next=null;
+                cur=cur.next;
+            } 
+            else {
+                prev=cur;
+                cur=cur.next;
             }
-
-        
-
-        prev=prev.next;
         }
+
         return head;
     }
 }
