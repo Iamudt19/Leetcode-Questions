@@ -28,6 +28,7 @@ Automatically synchronized from LeetCode via **LeetPush**.
 | 1523 | [Count Odd Numbers in an Interval Range](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/) | 🟢 Easy | Text | [Solution](solutions/1523-count-odd-numbers-in-an-interval-range/solution.txt) |
 | 1550 | [Three Consecutive Odds](https://leetcode.com/problems/three-consecutive-odds/) | 🟢 Easy | Text | [Solution](solutions/1550-three-consecutive-odds/solution.txt) |
 | 1913 | [Maximum Product Difference Between Two Pairs](https://leetcode.com/problems/maximum-product-difference-between-two-pairs/) | 🟢 Easy | Text | [Solution](solutions/1913-maximum-product-difference-between-two-pairs/solution.txt) |
+| 2095 | [Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/) | 🟡 Medium | Text | [Solution](solutions/2095-delete-the-middle-node-of-a-linked-list/solution.txt) |
 | 2154 | [Keep Multiplying Found Values by Two](https://leetcode.com/problems/keep-multiplying-found-values-by-two/) | 🟢 Easy | Text | [Solution](solutions/2154-keep-multiplying-found-values-by-two/solution.txt) |
 | 2485 | [Find the Pivot Integer](https://leetcode.com/problems/find-the-pivot-integer/) | 🟢 Easy | Java | [Solution](solutions/2485-find-the-pivot-integer/Solution.java) |
 | 3065 | [Minimum Operations to Exceed Threshold Value I](https://leetcode.com/problems/minimum-operations-to-exceed-threshold-value-i/) | 🟢 Easy | Text | [Solution](solutions/3065-minimum-operations-to-exceed-threshold-value-i/solution.txt) |
