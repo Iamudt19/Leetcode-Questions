@@ -76,6 +76,9 @@ class Solution {
         ListNode s= head;
         ListNode temp=head;
         int n=1;
+        if(head==null || head.next==null){
+            return head.next;
+        }
         while(s.next!=null){
             s=s.next;
             n++;
