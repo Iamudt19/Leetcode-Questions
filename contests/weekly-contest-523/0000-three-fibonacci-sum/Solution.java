@@ -4,10 +4,11 @@ class Solution {
         int b=1;
         int c=0;
         while(c<=n){
+            
+            c=a+b;
             if(a+b+c==n){
                 return true;
             }
-            c=a+b;
             a=b;
             b=c;
             
