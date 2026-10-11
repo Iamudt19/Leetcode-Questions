@@ -3,14 +3,15 @@ class Solution {
         int a=0;
         int b=1;
         int c=0;
-        while(c<n){
+        while(c<=n){
+            c=a+b;
             a=b;
             b=c;
-            c=a+b;
+            if(a+b+c==c){
+                return true;
+            }
         }
-        if(c==n){
-            return true;
-        }        
+               
         return false;
     }
 }
