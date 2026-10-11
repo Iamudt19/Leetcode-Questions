@@ -2,8 +2,8 @@
 
 - **Difficulty:** Easy
 - **Language:** Java
-- **Runtime:** N/A
-- **Memory:** N/A
+- **Runtime:** 1 ms
+- **Memory:** 42.7 MB
 - **Date:** Oct 11, 2026
 - **Problem Link:** [LeetCode](https://leetcode.com/problems/three-fibonacci-sum/)
 - **Topics:** None
@@ -63,10 +63,11 @@ class Solution {
         int b=1;
         int c=0;
         while(c<=n){
+            
+            c=a+b;
             if(a+b+c==n){
                 return true;
             }
-            c=a+b;
             a=b;
             b=c;
             
