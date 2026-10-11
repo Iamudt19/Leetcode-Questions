@@ -63,12 +63,13 @@ class Solution {
         int b=1;
         int c=0;
         while(c<=n){
+            if(a+b+c==n){
+                return true;
+            }
             c=a+b;
             a=b;
             b=c;
-            if(a+b+c==c){
-                return true;
-            }
+            
         }
                
         return false;
