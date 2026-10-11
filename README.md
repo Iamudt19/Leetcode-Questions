@@ -4,6 +4,7 @@ Automatically synchronized from LeetCode via **LeetPush**.
 
 | # | Problem | Difficulty | Language | Solution |
 |---|---------|------------|----------|----------|
+| 0 | [Three Fibonacci Sum](https://leetcode.com/problems/three-fibonacci-sum/) | 🟢 Easy | Java | [Solution](contests/weekly-contest-523/0000-three-fibonacci-sum/Solution.java) |
 | 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | 🟢 Easy | Text | [Solution](solutions/0009-palindrome-number/solution.txt) |
 | 19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | 🟡 Medium | Java | [Solution](solutions/0019-remove-nth-node-from-end-of-list/Solution.java) |
 | 28 | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | 🟢 Easy | Text | [Solution](solutions/0028-find-the-index-of-the-first-occurrence-in-a-string/solution.txt) |
