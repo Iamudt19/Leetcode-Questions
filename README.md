@@ -37,3 +37,4 @@ Automatically synchronized from LeetCode via **LeetPush**.
 | 2778 | [Sum of Squares of Special Elements ](https://leetcode.com/problems/sum-of-squares-of-special-elements/) | 🟢 Easy | Text | [Solution](solutions/2778-sum-of-squares-of-special-elements/solution.txt) |
 | 3065 | [Minimum Operations to Exceed Threshold Value I](https://leetcode.com/problems/minimum-operations-to-exceed-threshold-value-i/) | 🟢 Easy | Text | [Solution](solutions/3065-minimum-operations-to-exceed-threshold-value-i/solution.txt) |
 | 3550 | [Smallest Index With Digit Sum Equal to Index](https://leetcode.com/problems/smallest-index-with-digit-sum-equal-to-index/) | 🟢 Easy | Text | [Solution](solutions/3550-smallest-index-with-digit-sum-equal-to-index/solution.txt) |
+| 3727 | [Maximum Alternating Sum of Squares](https://leetcode.com/problems/maximum-alternating-sum-of-squares/) | 🟡 Medium | Text | [Solution](solutions/3727-maximum-alternating-sum-of-squares/solution.txt) |
