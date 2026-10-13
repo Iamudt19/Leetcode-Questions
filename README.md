@@ -10,6 +10,7 @@ Automatically synchronized from LeetCode via **LeetPush**.
 | 28 | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | 🟢 Easy | Text | [Solution](solutions/0028-find-the-index-of-the-first-occurrence-in-a-string/solution.txt) |
 | 43 | [Multiply Strings](https://leetcode.com/problems/multiply-strings/) | 🟡 Medium | Text | [Solution](solutions/0043-multiply-strings/solution.txt) |
 | 69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | 🟢 Easy | Java | [Solution](solutions/0069-sqrtx/Solution.java) |
+| 154 | [Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) | 🔴 Hard | Text | [Solution](solutions/0154-find-minimum-in-rotated-sorted-array-ii/solution.txt) |
 | 162 | [Find Peak Element](https://leetcode.com/problems/find-peak-element/) | 🟡 Medium | Java | [Solution](solutions/0162-find-peak-element/Solution.java) |
 | 167 | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | 🟡 Medium | Java | [Solution](solutions/0167-two-sum-ii-input-array-is-sorted/Solution.java) |
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | 🟢 Easy | Text | [Solution](solutions/0169-majority-element/solution.txt) |
