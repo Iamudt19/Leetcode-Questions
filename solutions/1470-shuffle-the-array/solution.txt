@@ -1,0 +1,21 @@
+class Solution {
+    public int[] shuffle(int[] nums, int n) {
+        int[] ans =new int[2*n];
+        int i=0;
+        int j=n;
+        int z=0;
+        while(z<2*n){
+            if(z%2==0){
+                ans[z]=nums[i];
+                i++;
+            }
+            else{
+                ans[z]=nums[j];
+                j++;
+            }
+            z++;
+        }
+
+        return ans;
+    }
+}
